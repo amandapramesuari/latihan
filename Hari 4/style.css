@@ -1,0 +1,31 @@
+.navbar-brand{
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+}
+
+.jumbotron {
+	padding-top: 8rem;
+	background-color: #FFEBCD;
+}
+
+#projects {
+	background-color: #FFEBCD;
+}
+
+footer{
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+}
+
+footer p a {
+	text-decoration: none;
+}
+
+section{
+	padding-top: 5rem;
+}
